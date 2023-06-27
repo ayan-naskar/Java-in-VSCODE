@@ -1,0 +1,36 @@
+1.	Andhra Pradesh	Southern	160,205	49,577,103
+2.	Assam	Northeastern	78,438	31,205,576
+3.	Arunachal Pradesh	Northeastern	83,743	1,383,727
+4.	Bihar	Eastern	94,163	104,099,452
+5.	Chhattisgarh	Central	135,191	25,545,198
+6.	Goa	Western	3,702	1,458,545
+7.	Gujarat	Western	196,024	60,439,692
+8.	Haryana	Northern	44,212	25,351,462
+9.	Himachal Pradesh	Northern	55,673	6,864,602
+10.	Jharkhand	Eastern	79,714	32,988,134
+11.	Karnataka	Southern	191,791	61,095,297
+12.	Kerala	Southern	38,863	33,406,061
+13.	Madhya Pradesh	Central	308,252	72,626,809
+14.	Maharashtra	Western	307,713	112,374,333
+15.	Manipur	Northeastern	22,327	2,570,390
+16.	Meghalaya	Northeastern	22,429	2,966,889
+17.	Mizoram	Northeastern	21,081	1,097,206
+18.	Nagaland	Northeastern	16,579	1,978,502
+19.	Odisha	Eastern	155,707	41,974,219
+20.	Punjab	Northern	50,362	27,743,338
+21.	Rajasthan	Northern	342,239	68,548,437
+22.	Sikkim	Northeastern	7,096	610,577
+23.	Tamil Nadu	Southern	130,058	72,147,030
+24.	Telangana	Southern	112,077	35,003,674
+25.	Tripura	Northeastern	10,486	3,673,917
+26.	Uttarakhand	Northern	53,483	10,086,292
+27.	Uttar Pradesh	Northern	240,928	199,812,341
+28.	West Bengal	Eastern	88,752	91,276,115
+29.	Andaman and Nicobar Islands	Bay of Bengal	8,249	380,581
+30.	Chandigarh	Northern	114	1,055,450
+31.	Dadra and Nagar Haveli and Daman and Diu	Western	603	585,764
+32.	National Capital Territory of Delhi	Northern	1,483	16,787,941
+33.	Jammu and Kashmir	Northern	42,241	12,267,032
+34.	Lakshadweep	Arabian Sea	32	64,473
+35.	Ladakh	Northern	59,146	274,000
+36.	Puducherry	Southern	479	1,247,953
